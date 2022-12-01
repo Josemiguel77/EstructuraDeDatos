@@ -40,7 +40,7 @@
 🚁 Laboratorio 1: https://github.com/Josemiguel77/EstructuraDeDatos/tree/main/Hito%204/Laboratorio1
  
  
-🚁 Evaluación:   
+🚁 Evaluación:   https://github.com/Josemiguel77/EstructuraDeDatos/tree/main/Hito%204/Evaluacion
   
 
 🚁 Procesual: 
